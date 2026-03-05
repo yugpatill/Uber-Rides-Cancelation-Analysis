@@ -193,16 +193,6 @@ uber-rides-cancelation-analysis.ipynb
 
 ---
 
-# 📁 Repository Structure
-
-```
-Uber-Rides-Cancelation-Analysis
-│
-├── uber-rides-cancelation-analysis.ipynb
-├── README.md
-```
-
----
 
 # 👨‍💻 Author
 
